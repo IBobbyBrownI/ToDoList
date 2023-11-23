@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(90deg, rgb(204, 184, 148), rgb(159, 118, 206));
+}
+
+.header {
+	height: 250px;
+	width: 100%;
+	background-color: rgba(255, 255, 255, 0.3);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 15px 15px;
+	box-sizing: border-box;
+}
+
+.header-logo {
+	
+}
+
+.header-title {
+	font-family: 'Pacifico';
+	font-size: 80px;
+	color:black;
+	text-align: center;
+	padding-right: 100px;
+}
